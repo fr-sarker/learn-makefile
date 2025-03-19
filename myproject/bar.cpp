@@ -3,6 +3,6 @@ using namespace std;
 
 int main() {
     for (int i = 0; i < 5; i ++) {
-        cout << i << " " << "hello world from cpp\n";
+        cout << i << " " << "Hello world from cpp\n";
     }
 }
